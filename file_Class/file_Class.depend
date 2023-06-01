@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676140941 source:/media/backup/Project Bravo/MEC/file_Class/main.cpp
+	<iostream>
+	<Student.h>
+
+1676140942 /media/backup/Project Bravo/MEC/file_Class/include/Student.h
+	<iostream>
+

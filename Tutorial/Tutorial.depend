@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674324815 source:/media/backup/Project Bravo/MEC/Tutorial/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
